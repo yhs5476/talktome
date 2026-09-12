@@ -1,0 +1,6 @@
+{
+  "name": "Talk to Me - RPI 5 Live Vision",
+  "description": "라즈베리파이 5 기반 실시간 AI 비전 및 음성 대화 어시스턴트",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
